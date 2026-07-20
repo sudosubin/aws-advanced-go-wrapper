@@ -9,7 +9,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.27
 	github.com/aws/aws-sdk-go-v2/feature/rds/auth v1.6.30
 	github.com/aws/aws-sdk-go-v2/service/rds v1.120.0
-	github.com/aws/aws-sdk-go-v2/service/sts v1.44.0
+	github.com/aws/aws-sdk-go-v2/service/sts v1.44.1
 )
 
 require (
